@@ -27,15 +27,10 @@
 
 در ترمینال دستور زیر را اجرا کنید:
 
-```bash
-npm install
-
-
-### Run
 
 Install dependencies
-
 ```bash
+
   npm install
 ```
 
